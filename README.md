@@ -1,6 +1,6 @@
 # Enhancing Child Sponsorship Retention for World Vision Australia
 
-World Vision Australia is a Christian charity focused on helping children and communities overcome poverty and injustice through international development projects and advocacy work, primarily assisting overseas communities living in poverty. During my capstone unit at the university, I collaborated with a team of students to work on an industry client’s dataset (World Vision Australia). Leveraging different data science skills, we assessed their business operations, identified critical challenges, and provided data-driven, actionable solutions. 
+World Vision Australia is a Christian values' based charity focused on helping children and communities overcome poverty and injustice through international development projects and advocacy work, primarily assisting overseas communities living in poverty. During my capstone unit at the university, I collaborated with a team of students to work on an industry client’s dataset (World Vision Australia). Leveraging different data science skills, we assessed their business operations, identified critical challenges, and provided data-driven, actionable solutions. 
 
 Business Problems:
 1.	Declining Child Sponsorship Retention: Retention rates for child sponsorships have declined by 48% over the past three years, posing a serious risk to vital child development programs.
